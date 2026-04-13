@@ -38,6 +38,8 @@ Theoretical INT4 compression is 4x vs FP16. Actual compression is 2.88x because 
 | Best for | Quality-sensitive | Throughput / deployment |
 | Calibration needed | No | Yes (~128 samples) |
 
+<img width="1089" height="390" alt="image" src="https://github.com/user-attachments/assets/29ee1fc0-c628-4684-b254-aed76e3b2803" />
+
 
 
 Tested on: Google Colab T4 (16GB VRAM), Python 3.10, PyTorch 2.2
